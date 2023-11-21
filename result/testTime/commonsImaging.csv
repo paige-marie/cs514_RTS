@@ -1,0 +1,51 @@
+rev, All, STARTS, Ekstazi
+rev_1, Binary file ../original_source/commonsImaging/rev_1/mvnRunOutput.txt match, Binary file ../STARTS/commonsImaging/rev_1/StartsRTSOutput.txt match, Binary file ../Ekstazi/commonsImaging/rev_1/EkstaziRTSOutput.txt match
+rev_2, Binary file ../original_source/commonsImaging/rev_2/mvnRunOutput.txt match,  12.653,  10.417
+rev_3, Binary file ../original_source/commonsImaging/rev_3/mvnRunOutput.txt match,  14.971,  10.389
+rev_4, Binary file ../original_source/commonsImaging/rev_4/mvnRunOutput.txt match,  12.395,  10.474
+rev_5, Binary file ../original_source/commonsImaging/rev_5/mvnRunOutput.txt match,  27.863,  17.607
+rev_6, Binary file ../original_source/commonsImaging/rev_6/mvnRunOutput.txt match,  28.495,  14.161
+rev_7, Binary file ../original_source/commonsImaging/rev_7/mvnRunOutput.txt match, Binary file ../STARTS/commonsImaging/rev_7/StartsRTSOutput.txt match, Binary file ../Ekstazi/commonsImaging/rev_7/EkstaziRTSOutput.txt match
+rev_8, Binary file ../original_source/commonsImaging/rev_8/mvnRunOutput.txt match,  27.369,  24.512
+rev_9, Binary file ../original_source/commonsImaging/rev_9/mvnRunOutput.txt match,  27.297,  24.298
+rev_10, Binary file ../original_source/commonsImaging/rev_10/mvnRunOutput.txt match,  11.116,  9.529
+rev_11, Binary file ../original_source/commonsImaging/rev_11/mvnRunOutput.txt match,  12.746,  9.790
+rev_12, Binary file ../original_source/commonsImaging/rev_12/mvnRunOutput.txt match,  27.016,  10.970
+rev_13, Binary file ../original_source/commonsImaging/rev_13/mvnRunOutput.txt match,  26.852,  14.498
+rev_14, Binary file ../original_source/commonsImaging/rev_14/mvnRunOutput.txt match,  25.647,  23.365
+rev_15, Binary file ../original_source/commonsImaging/rev_15/mvnRunOutput.txt match,  13.741,  9.857
+rev_16, Binary file ../original_source/commonsImaging/rev_16/mvnRunOutput.txt match,  11.436,  9.763
+rev_17, Binary file ../original_source/commonsImaging/rev_17/mvnRunOutput.txt match,  27.405,  23.943
+rev_18, Binary file ../original_source/commonsImaging/rev_18/mvnRunOutput.txt match,  12.439,  9.705
+rev_19, Binary file ../original_source/commonsImaging/rev_19/mvnRunOutput.txt match,  14.326,  10.027
+rev_20,  21.985,  25.922,  23.523
+rev_21,  22.412,  15.039,  9.661
+rev_22,  22.264,  13.190,  9.936
+rev_23,  22.414,  12.942,  9.887
+rev_24,  22.514,  12.568,  9.769
+rev_25,  23.224,  13.160,  9.831
+rev_26,  23.529,  11.340,  9.762
+rev_27,  22.890,  26.247,  23.492
+rev_28,  22.959,  11.587,  9.843
+rev_29,  23.044,  11.753,  9.677
+rev_30,  22.363,  11.179,  9.614
+rev_31,  22.218,  10.949,  9.749
+rev_32,  22.267,  25.321,  11.490
+rev_33,  22.553,  11.241,  9.878
+rev_34,  22.292,  11.091,  9.732
+rev_35,  22.423,  26.539,  11.059
+rev_36,  22.332,  11.018,  9.795
+rev_37,  22.774,  11.131,  9.793
+rev_38,  27.419,  11.188,  10.000
+rev_39,  24.191,  10.990,  9.739
+rev_40,  23.434,  11.010,  9.818
+rev_41,  22.692,  12.735,  9.839
+rev_42,  22.833,  12.797,  9.780
+rev_43,  22.731,  25.707,  24.199
+rev_44,  22.964,  11.187,  9.663
+rev_45,  22.941,  11.114,  9.788
+rev_46,  22.906,  11.255,  9.690
+rev_47,  24.203,  13.303,  10.510
+rev_48,  23.984,  28.153,  24.615
+rev_49,  23.870,  13.506,  10.144
+rev_50,  23.515,  13.677,  11.060
