@@ -1,0 +1,3 @@
+commonsImaging https://github.com/apache/commons-imaging.git b437436
+commonsValidator https://github.com/apache/commons-validator.git bbab85a
+asterisk https://github.com/asterisk-java/asterisk-java.git 53a66e8
